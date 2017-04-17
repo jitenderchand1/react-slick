@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-3",
   "version": "0.14.8",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -79,7 +79,7 @@
       "./test-setup.js"
     ]
   },
-  "npmName": "react-slick",
+  "npmName": "react-slick-3",
   "npmFileMap": [
     {
       "basePath": "/dist/",
